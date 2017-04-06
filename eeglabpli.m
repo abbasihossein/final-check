@@ -38,5 +38,5 @@ colorbar
 title('PLI(with Hamming window)')
 xlabel('Channels')
 ylabel('channels')
-
+final check
  
